@@ -22,10 +22,7 @@ Hello dear fellow human or humanoid robot!\n\nThis is Roll Some Dice, an app dev
 2. In the next screen each tap anywhere rolls the dice.
 
 ## Screenshots
-![Welcome Screen](https://github.com/v4lpt/RSD/blob/master/Screenshots/welcome.png)
-![Roll: 4](https://github.com/v4lpt/RSD/blob/master/Screenshots/dice_4.png)
-![Roll: 6](https://github.com/v4lpt/RSD/blob/master/Screenshots/dice_6.png)
-![Info (License) Screen](https://github.com/v4lpt/RSD/blob/master/Screenshots/info.png)
+![Welcome Screen](https://github.com/v4lpt/RSD/blob/master/Screenshots/welcome.png)![Roll: 4](https://github.com/v4lpt/RSD/blob/master/Screenshots/dice_4.png)![Roll: 6](https://github.com/v4lpt/RSD/blob/master/Screenshots/dice_6.png)![Info (License) Screen](https://github.com/v4lpt/RSD/blob/master/Screenshots/info.png)
 
 
 
