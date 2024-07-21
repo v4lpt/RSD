@@ -1,6 +1,8 @@
 # Valentin's PowerTools #005 - Roll Some Dice :key: 
 ## VPT#005-RSD
-Hello dear fellow human or humanoid robot!\n\nThis is Roll Some Dice, an app developed solely for the purpose to speed up your dice rolling procedures in board games that use two dice and their respective distribution of results.
+Hello dear fellow human or humanoid robot!
+
+This is Roll Some Dice, an app developed solely for the purpose to speed up your dice rolling procedures in board games that use two dice and their respective distribution of results.
 
 <b><font color="#efcac2">Everything is calculated locally, nothing is saved. Nobody will ever learn about your specific gam(bl)ing habits :)</font></b>
   
