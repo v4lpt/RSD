@@ -22,7 +22,7 @@ Hello dear fellow human or humanoid robot!\n\nThis is Roll Some Dice, an app dev
 2. In the next screen each tap anywhere rolls the dice.
 
 ## Screenshots
-![https://github.com/v4lpt/RSD/blob/master/Screenshots/dice_4.png](Roll: 4)
+![Roll: 4](https://github.com/v4lpt/RSD/blob/master/Screenshots/dice_4.png)
 ## License
 
 This project is licensed under the **GNU General Public License (GPL)**. See the [LICENSE.md](LICENSE.md) file for details.
