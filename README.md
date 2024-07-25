@@ -36,9 +36,7 @@ src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true">](f
 src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true">](fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true)
 [<img width=200 alt="Screenshot 4"
 src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true">](fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true)
-<img src="https://raw.githubusercontent.com/v4lpt/RSD/master/Screenshots/welcome.png" alt="Welcome Screen" width="500" /> <img src="https://raw.githubusercontent.com/v4lpt/RSD/master/Screenshots/dice_4.png" alt="Roll: 4" width="500" />
 
-<img src="https://raw.githubusercontent.com/v4lpt/RSD/master/Screenshots/dice_6.png" alt="Roll: 6" width="500" /> <img src="https://raw.githubusercontent.com/v4lpt/RSD/master/Screenshots/info.png" alt="Info (License) Screen" width="500" />
 
 
 
