@@ -1,4 +1,4 @@
-# Valentin's PowerTools #005 - Roll Some Dice :key: 
+# Valentin's PowerTools #005 - Roll Some Dice :game_die: 
 ## VPT#005-RSD
 Hello dear fellow human or humanoid robot!
 
