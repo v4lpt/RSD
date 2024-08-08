@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">VPT#005-RSD</string>
+    <string name="app_name">VPT#005-RSD - Roll Some Dice</string>
     <string name="app_name_show">Roll Some Dice</string>
     <string name="action_settings">Settings</string>
     <string name="anleitung2">Hello dear fellow human or humanoid robot!\n\nThis is Roll Some Dice, an app developed solely for the purpose to speed up your dice rolling procedures in board games that use two dice and their respective distribution of results.\n\n
