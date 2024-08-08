@@ -1,16 +1,14 @@
-<h1 id="valentin-s-powertools-005-roll-some-dice-key-">Valentin&#39;s PowerTools #005 - Roll Some Dice :key:</h1>
-<h2 id="vpt-005-rsd">VPT#005-RSD</h2>
-<p>Hello dear fellow human or humanoid robot!
+Hello dear fellow human or humanoid robot!
 This is Roll Some Dice, an app developed solely for the purpose to speed up your dice rolling procedures in board games that use two dice and their respective distribution of results.
 <strong>Everything is calculated locally, nothing is saved. Nobody will ever learn about your specific gam(bl)ing habits :)</strong></p>
-<h2 id="features">Features</h2>
-<ul>
-<li>🎲🎲 <strong>2 Dice</strong>: more than one! </li>
-<li>🧭 <strong>4 way display</strong>: The result will be displayed in all 4 directions ensuring ample visibility for all players.</li>
-<li>⏲️ <strong>Small Delay</strong>: There is a 727ms delay between dice rolls to prevent accidental or purposeful double rolls. <h2 id="usage">Usage</h2>
-</li>
-<li>Press the large red button.</li>
-<li>In the next screen each tap anywhere rolls the dice.</li>
-</ul>
-<p>Created with ♥️ by Valentin</p>
-<p> Tags: Würfel, Würfel App, Dice, Dice Roller, Random Number Generator, Random, Coinflip, Die, </p>
+<strong>Usage:</strong>
+- 🎲🎲 <strong>2 Dice</strong>: more than one! 
+- 🧭 <strong>4 way display</strong>: The result will be displayed in all 4 directions ensuring ample visibility for all players.
+- ⏲️ <strong>Small Delay</strong>: There is a 727ms delay between dice rolls to prevent accidental or purposeful double rolls. 
+
+<strong>Usage:</strong>
+- Press the big red button.
+- In the next screen each tap anywhere rolls the dice.
+
+Created with ♥️ by Valentin
+Tags: Würfel, Würfel App, Dice, Dice Roller, Random Number Generator, Random, Coinflip, Die
