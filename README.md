@@ -6,11 +6,9 @@ This is Roll Some Dice, an app developed solely for the purpose to speed up your
 
 <b><font color="#efcac2">Everything is calculated locally, nothing is saved. Nobody will ever learn about your specific gam(bl)ing habits :)</font></b>
   
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/v4lpt.vpt.f005.rsd/)
-     
-Or download the latest APK from the [Releases Section](https://github.com/v4lpt/RSD/releases/latest).
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/v4lpt.vpt.f005.rsd/)
+[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height="80">](https://apt.izzysoft.de/fdroid/index/apk/v4lpt.vpt.f005.rsd)
+[<img src="https://raw.githubusercontent.com/v4lpt/GDP/master/Badge/github.png" alt="Get it on GitHub" height="80">](https://github.com/v4lpt/RSD/releases/latest)
 
 ## Features
 
