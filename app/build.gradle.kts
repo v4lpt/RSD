@@ -10,8 +10,8 @@ android {
         applicationId = "v4lpt.vpt.f005.rsd"
         minSdk = 24
         targetSdk = 34
-        versionCode = 103
-        versionName = "1.0.3"
+        versionCode = 104
+        versionName = "1.0.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -25,6 +25,12 @@ android {
             )
         }
     }
+    dependenciesInfo {
+    // Disables dependency metadata when building APKs.
+    includeInApk = false
+    // Disables dependency metadata when building Android App Bundles.
+    includeInBundle = false
+}
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
